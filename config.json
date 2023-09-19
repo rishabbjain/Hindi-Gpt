@@ -1,1 +1,1 @@
-{"s2t": "openai/whisper-medium", "q/a_model": "llama-2-7b-chat.Q5_K_S.gguf", "t2t": "facebook/mbart-large-50-one-to-many-mmt"}
+{"s2t": "openai/whisper-medium", "q/a_model": "llama-2-7b-chat.Q5_K_S.gguf", "t2t": "facebook/mbart-large-50-one-to-many-mmt","audio-file":"../audio-samples/test2.wav"}
