@@ -6,10 +6,19 @@ This repository contains the steps to run **Hindi-GPT**, a powerful tool for con
 
 ## Getting Started
 
-1. Download Whisper-openai huggingface end point -> https://huggingface.co/openai/whisper-medium
-2. Llama 7B 5-bit Quantization module (llama-2-7b-chat.Q5_K_S.gguf) -> https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF/tree/main
-3. Text(English) -> Text(Hindi) -> https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt
-   Note: please update the config.json after installation
+
+Follow these steps to get started with the **Hindi-GPT:
+
+1. Download the Whisper Hugging Face model:
+   - [Whisper Model Endpoint](https://huggingface.co/openai/whisper-medium)
+
+2. Download the Llama 7B 5-bit Quantization module:
+   - [Llama 7B 5-bit Quantization Module](https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF/tree/main)
+
+3. Download the Text(English) to Text(Hindi) model:
+   - [Text(English) to Text(Hindi) Model](https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt)
+
+   **Note:** Please remember to update the `config.json` file after installation.
 
 ## Installation
 Code
