@@ -29,6 +29,7 @@ Code
 ```
 ## Requirements
 ```bash
+   Python 3.8.18
    pip install -r requirements.txt
 ```
 
