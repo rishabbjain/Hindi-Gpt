@@ -1,3 +1,6 @@
 # Hindi-GPT
 
-This repo contains steps to run Hindi-GPT, which takes speech as an input and gives output to the query in hindi.
+## Overview
+
+This repository contains the steps to run **Hindi-GPT**, a powerful tool for converting speech into text and providing responses in Hindi.
+
