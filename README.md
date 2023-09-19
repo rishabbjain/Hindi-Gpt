@@ -2,7 +2,11 @@
 
 ## Overview
 
-This repository contains the steps to run **Hindi-GPT**, a powerful tool for converting speech into text and providing responses in Hindi.
+Welcome to the **Hindi-GPT** repository, a versatile tool designed for converting speech into text and generating responses in Hindi.
+
+**Main Notebook**: Explore the capabilities of Hindi-GPT by checking out the [main.ipynb](notebooks/main.ipynb) notebook in the "notebooks" directory. This notebook will guide you through the steps to run Hindi-GPT and showcase its features.
+
+Feel free to dive into the notebook and get started with Hindi-GPT!
 
 ## Getting Started
 
