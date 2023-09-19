@@ -34,4 +34,4 @@ Requirements
 ```
 ## Data
 Can accept wav/mp3 formats with sampling rate=16KHz.<br>
-please update the config.json with the input audio file path.
+Please update the config.json with the input audio file path.
