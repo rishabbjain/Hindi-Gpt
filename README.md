@@ -45,6 +45,6 @@ Next, update the `config.json` file with the path to your input audio file:
 
 ```json
 {
-  "input_audio_path": "../audio-samples/file.wav"
+  "audio-file": "../audio-samples/<your-audio.wav>"
 }
 
