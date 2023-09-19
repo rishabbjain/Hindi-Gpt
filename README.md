@@ -26,5 +26,11 @@ Code
    https://github.com/rishabbjain/Hindi-Gpt.git
    cd Hindi-Gpt
 
+```
+## Requirements
+```bash
+   https://github.com/rishabbjain/Hindi-Gpt.git
+   cd Hindi-Gpt
 
+```
 
