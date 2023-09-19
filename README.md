@@ -33,5 +33,18 @@ Requirements
    pip install -r requirements.txt
 ```
 ## Data
-Can accept wav/mp3 formats with sampling rate=16KHz.<br>
-Please update the config.json with the input audio file path.
+
+You can provide input audio data in either WAV or MP3 formats, with a required sampling rate of 16KHz.
+
+To use your own audio data, follow these steps:
+
+- Ensure the audio file is in either WAV or MP3 format.
+- Make sure the audio file has a sampling rate of 16KHz.
+
+Next, update the `config.json` file with the path to your input audio file:
+
+```json
+{
+  "input_audio_path": "../audio-samples/file.wav"
+}
+
