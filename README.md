@@ -24,4 +24,6 @@ Follow these steps to get started with the **Hindi-GPT:
 Code
 ```bash
    https://github.com/rishabbjain/Hindi-Gpt.git
-   cd Hindi-Gpt 
+   cd Hindi-Gpt
+```
+##Requirements
