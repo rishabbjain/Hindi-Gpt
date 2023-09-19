@@ -26,4 +26,4 @@ Code
    https://github.com/rishabbjain/Hindi-Gpt.git
    cd Hindi-Gpt
 ```
-##Requirements
+## Requirements
