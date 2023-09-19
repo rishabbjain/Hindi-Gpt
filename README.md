@@ -29,7 +29,7 @@ Code
 ```
 ## Requirements
 ```bash
-   https://github.com/rishabbjain/Hindi-Gpt.git
+   pip install -r requirements.txt
    cd Hindi-Gpt
 
 ```
