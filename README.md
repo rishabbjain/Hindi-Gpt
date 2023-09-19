@@ -32,5 +32,6 @@ Requirements
    Python 3.8.18
    pip install -r requirements.txt
 ```
-
-
+## Data
+Can accept wav/mp3 formats with sampling rate=16KHz
+please update the config.json with the input audio file path
