@@ -1,1 +1,1 @@
-# Hindi-Gpt
+# Hindi-GPT
