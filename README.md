@@ -18,7 +18,7 @@ Follow these steps to get started with the **Hindi-GPT:
 3. Download the Text(English) to Text(Hindi) model:
    - [mbart-large-50-one-to-many-mmt](https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt)
 
-   **Note:** Please remember to update the `config.json` file after installation.
+   **Note:** Please remember to update the `config.json` file after installation and upload llama in models/ dir.
 
 ## Installation
 Code
