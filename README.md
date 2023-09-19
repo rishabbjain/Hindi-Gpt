@@ -27,7 +27,7 @@ Follow these steps to get started with the **Hindi-GPT:
 ## Installation
 Code
 ```bash
-   https://github.com/rishabbjain/Hindi-Gpt.git
+   git clone https://github.com/rishabbjain/Hindi-Gpt.git
    cd Hindi-Gpt
 
 ```
