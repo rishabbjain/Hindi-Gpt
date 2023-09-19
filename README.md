@@ -25,8 +25,6 @@ Code
 ```bash
    https://github.com/rishabbjain/Hindi-Gpt.git
    cd Hindi-Gpt
-```
-## Requirements
-```bash
-   pip install -r requirements.txt
-```
+
+
+
