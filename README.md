@@ -16,7 +16,7 @@ Follow these steps to get started with the **Hindi-GPT:
    - [Llama 7B 5-bit Quantization Module](https://huggingface.co/TheBloke/Llama-2-7b-Chat-GGUF/tree/main)
 
 3. Download the Text(English) to Text(Hindi) model:
-   - [Text(English) to Text(Hindi) Model](https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt)
+   - [mbart-large-50-one-to-many-mmt](https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt)
 
    **Note:** Please remember to update the `config.json` file after installation.
 
