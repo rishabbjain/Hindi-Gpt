@@ -30,7 +30,5 @@ Code
 ## Requirements
 ```bash
    pip install -r requirements.txt
-   cd Hindi-Gpt
-
 ```
 
